@@ -1,6 +1,6 @@
 # Keyboard Drum Kit
 
-Simple overview of use/purpose.
+Make music on the go or on your keyboard or with a click
 
 ## Description
 
@@ -8,28 +8,26 @@ Cool Keyboard Drum kit sytled and made by me.
 
 ## Getting Started
 
-* Clone project from github
+* Glad you are here make sure to clone the project
 
-### Dependencies
+## Dependencies
 
 * ex. Windows 10 or Mac
 * Javascript
 
-### Installing
+#### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+* No installion is required unless you would like my eslint and prettier settings
 
-### Executing program
+#### Executing program
 
 * Open with Live server index.js
 
-
-## Help
+#### Help
 
 Feel Free to contact me
 
-## Authors
+#### Authors
 
 ex. Michel Nicholas  
 ex. [@worldwidehaven](https://x.com/worldwidehaven)
