@@ -2,7 +2,7 @@
 
 Make music on the go or on your keyboard or with a click
 
-## Description
+### Description
 
 Cool Keyboard Drum kit sytled and made by me.
 
@@ -10,20 +10,20 @@ Cool Keyboard Drum kit sytled and made by me.
 
 * Glad you are here make sure to clone the project
 
-## Dependencies
+### Dependencies
 
 * ex. Windows 10 or Mac
 * Javascript
 
-#### Installing
+## Installing
 
 * No installion is required unless you would like my eslint and prettier settings
 
-#### Executing program
+## Executing program
 
 * Open with Live server index.js
 
-#### Help
+## Help
 
 Feel Free to contact me
 
@@ -37,10 +37,10 @@ ex. [@worldwidehaven](https://x.com/worldwidehaven)
 * 0.1
     * Initial Release
 
-## License
+#### License
 
 This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
 
-## Acknowledgments
+#### Acknowledgments
 
 london brewery
